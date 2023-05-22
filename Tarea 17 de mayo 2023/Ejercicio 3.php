@@ -4,8 +4,6 @@
   <title>Iniciar sesión</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
-      background-color: #f2f2f2;
       margin: 0;
       padding: 0;
       display: flex;
@@ -16,7 +14,6 @@
     
     .container {
       width: 300px;
-      background-color: #fff;
       border-radius: 5px;
       padding: 20px;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -33,7 +30,6 @@
     .form-group label {
       display: block;
       margin-bottom: 5px;
-      font-weight: bold;
     }
     
     .form-group input {
@@ -47,9 +43,7 @@
       display: block;
       width: 100%;
       padding: 10px;
-      background-color: #4CAF50;
       border: none;
-      color: #fff;
       text-align: center;
       text-decoration: none;
       border-radius: 3px;
